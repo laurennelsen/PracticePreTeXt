@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<section xml:id="sec-my-favorite-examples" xmlns:xi="http://www.w3.org/2001/XInclude">
+  <title>My Favorite Examples</title>
+
+  <p> Text of section. </p>
+
+ <definition xml:id="def-variance">
+    <statement>
+        <p>
+            This is a definition!  It is great!  This is the definition of a <em>word</em>.
+        </p>
+        <p>
+            <me>
+                s^2=\frac{\sum (x_i -\overline{x})^2}{n-1}
+            </me>
+            
+        </p>
+    </statement>
+ </definition>
+
+ <theorem xml:id="thm-example-theorem">
+    <statement>
+        <p>
+            This is a theorem!
+        </p>
+    </statement>
+ </theorem>
+
+ <example>
+ <p>
+    This is an example!
+    </p>
+ </example>
+ 
+
+</section>
